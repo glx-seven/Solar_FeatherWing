@@ -18,7 +18,7 @@ The maximum voltage of the solar-cell is 5.5V.
 | C8 | 22uF | C0603K | capacitor |
 | C10 | 100nF | C0603K | capacitor |
 | D1 | NSR0530HT1G | SOD323 | diode |
-| D2 | SMBJ5339B-TP | SMB | diode |
+| D2 | SMBJ5339B-TP | SMB | z-diode for protection |
 | IC1 | SPV1040T | TSSOP8 | Solar-charge IC |
 | IC2 | INA219AIDCNR | SOT65P280X145-8N | power monitor |
 | J1 | 1X2-3.5MM | 1X2-3.5MM | terminal header |
