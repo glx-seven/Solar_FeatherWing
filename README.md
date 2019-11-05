@@ -31,7 +31,5 @@ The maximum voltage of the solar-cell is 5.5V.
 | R5 | 1.2M | R0603 | resistor |
 | R6 | 390k | R0603 | resistor |
 | R7 | 100m | R1206 | resistor |
-| R8 | 10k | R0603 | resistor |
-| R9 | 10k | R0603 | resistor |
-| R10 | 4.7k | R0603 | resistor |
-| R11 | 4.7k | R0603 | resistor |
+| R8 | 4.7k | R0603 | resistor |
+| R9 | 4.7k | R0603 | resistor |
